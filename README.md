@@ -10,6 +10,5 @@ This dataset consists of reviews of fine foods from amazon. The data span a peri
 
 ● Converted the reviews into numerical features using Customised Word Embedding.
 
-● Used a LSTM based RNN Model to check the performance of the model achieved using F1-Score
-
+● Used a LSTM based RNN Model, to check the performance of the model F1-Score was used.
 
